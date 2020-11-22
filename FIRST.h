@@ -1,7 +1,3 @@
-//
-// Created by Ridd on 2020/11/21/021.
-//
-
 #ifndef SYNTACTICANALYSIS_FIRST_H
 #define SYNTACTICANALYSIS_FIRST_H
 

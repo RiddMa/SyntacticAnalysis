@@ -12,18 +12,18 @@ extern bool used[MAX];
 extern vector<map<char, string> > predict_table;
 
 void print(int steps, stack<string> stk, string src, const string &wf, int x) {
-    printf("%-10d", steps);
+    printf("%-14d", steps);
     string out;
     while (!stk.empty()) {
         out = stk.top() + out;
         stk.pop();
     }
-    printf("#%-9s", out.c_str());
+    printf("#%-14s", out.c_str());
     out = "";
     for (int i = x; i < src.length(); i++)
         out += src[i];
-    printf("%-10s", (out + "#").c_str());
-    printf("%-10s\n", wf.c_str());
+    printf("%-14s", (out + "#").c_str());
+    printf("%-14s\n", wf.c_str());
 }
 
 void analyse(const string &src) {

@@ -1,7 +1,3 @@
-//
-// Created by Ridd on 2020/11/21/021.
-//
-
 #ifndef LEX_TABLEGEN_H
 #define LEX_TABLEGEN_H
 

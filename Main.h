@@ -1,7 +1,3 @@
-//
-// Created by Ridd on 2020/11/22/022.
-//
-
 #ifndef SYNTACTICANALYSIS_MAIN_H
 #define SYNTACTICANALYSIS_MAIN_H
 

@@ -1,7 +1,3 @@
-//
-// Created by Ridd on 2020/11/22/022.
-//
-
 #ifndef LEX_ANALYSE_H
 #define LEX_ANALYSE_H
 
